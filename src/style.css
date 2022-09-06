@@ -21,24 +21,11 @@ body {
   align-items: center;
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2%;
-}
-
 .row {
   display: flex;
   width: 100%;
 }
 
-.row div {
-  width: 50%;
-}
-
-.noMargin {
-  margin: 0px;
-}
 p {
   color: #6b946a;
 }
